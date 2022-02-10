@@ -29,7 +29,8 @@ See:
 https://github.com/hakimel/reveal.js/blob/master/README.md
 
 Export as PDF:
-https://revealjs.com/pdf-export/
+* https://revealjs.com/pdf-export/
+* Open this URL and print: http://localhost:10000/?print-pdf
 
 
 Overview mode with `ESC`:

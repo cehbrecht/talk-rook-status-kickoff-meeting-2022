@@ -109,7 +109,7 @@ https://clisops.readthedocs.io/en/latest/
 * Average: ready for integration with CDS
 * Regridding: initial version will be available soon
 ---
-## Next steps in C3S2_380
+## Next in C3S2_380
 * Integrate data in CDS
   * CMIP6-decadal, CORDEX, CMIP5
 * Updates of existing data pool
