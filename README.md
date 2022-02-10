@@ -10,6 +10,10 @@ Copernicus Cordex Workshop (ECMWF + IPSL):
 This presentation uses [reveal-ck](http://jedcn.github.io/reveal-ck/).
 See [documentation](http://jedcn.github.io/reveal-ck/installation/) for installation.
 
+```
+gem install reveal-ck
+```
+
 The slides `slides.md` are written in Markdown.
 
 You can generate the presentation with reveal-ck:
@@ -31,14 +35,16 @@ https://revealjs.com/pdf-export/
 Overview mode with `ESC`:
 https://github.com/hakimel/reveal.js/blob/master/README.md#overview-mode
 
-## Install ruby on macOS
+## Install on macOS
 
 See:
 https://github.com/rbenv/rbenv#upgrading-with-homebrew
 
 ```
-$ brew upgrade rbenv ruby-build
+$ brew install rbenv ruby-build
 $ rbenv init
-$ rbenv install 2.6.4
-$ rbenv global 2.6.4
+# $ eval "$(rbenv init - zsh)"
+$ rbenv install 2.7.0
+$ rbenv global 2.7.0
+$ gem install reveal-ck
 ```
